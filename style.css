@@ -1,4 +1,8 @@
 header {
     background-color: #424E61;
-    color: white;
+    color: red;
+}
+
+.logo {
+    height:200px;
 }
